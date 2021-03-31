@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deliveries>
+<drop category="cooking">
+  <address signature="no">Everyday Italian</address>
+  <name>Giada De Laurentiis</name>
+  <year>2005</year>
+  <price>30.00</price>
+</drop>
+<drop category="children">
+  <address signature="no">Harry Potter</address>
+  <name>J K. Rowling</name>
+  <year>2005</year>
+  <price>29.99</price>
+</drop>
+<drop category="web">
+  <address signature="no">XQuery Kick Start</address>
+  <name>James McGovern</name>
+  <name>Per Bothner</name>
+  <name>Kurt Cagle</name>
+  <name>James Linn</name>
+  <name>Vaidyanathan Nagarajan</name>
+  <year>2003</year>
+  <price>49.99</price>
+</drop>
+<drop category="web">
+  <address signature="no">Learning XML</address>
+  <name>Erik T. Ray</name>
+  <year>2003</year>
+  <price>39.95</price>
+</drop>
+</deliveries>
